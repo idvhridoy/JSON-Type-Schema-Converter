@@ -1,0 +1,6 @@
+{
+  "name": "JSON Type & Schema Converter",
+  "description": "Converts raw JSON payloads into fully typed TypeScript interfaces, TypeBox schemas, or Zod validation models instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
